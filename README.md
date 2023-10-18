@@ -17,7 +17,7 @@ This is an Employee Management System created using Visual Studio, with SQLite a
 The application has a total of five screens:
 Firstly, the login page:  
 
-![Employee Management System_Login page](Login.png)  
+![Employee Management System_Login page](Login page.png)  
 
 Upon legitimate authentication you are presented with the home page:  
 
