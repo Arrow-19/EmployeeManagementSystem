@@ -9,16 +9,32 @@ This is an Employee Management System created using Visual Studio, with SQLite a
 - **Add and Update Employees**: Easily add new employees or update existing records.
 - **SQLite Database**: Utilizes the lightweight and embedded SQLite database for data storage.
 
-## Features to be imple
+## Features to be implemented
 - **Data Export**: Export employee data to various formats for reporting and analysis.
 
 
 ## Screenshots
-![Employee Management System_Login page](login.png)
-![Employee Management System_Home page](Home.png)
-![Employee Management System_Add](Add.png)
-![Employee Management System_Delete](Delete.png)
-![Employee Management System_Update](Update.png)
+The application has a total of five screens:
+Firstly, the login page:  
+
+![Employee Management System_Login page](Login.png)  
+
+Upon legitimate authentication you are presented with the home page:  
+
+![Employee Management System_Home page](Home.png)  
+
+This is the page where you can add employee records:  
+
+![Employee Management System_Add](Add.png)  
+
+This is the page where you can delete a specific employee record:  
+
+![Employee Management System_Delete](Delete.png)  
+
+This is the page where you can update a specific employee record:  
+
+![Employee Management System_Update](Update.png)  
+
 
 ## Getting Started
 
