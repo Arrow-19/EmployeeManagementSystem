@@ -44,6 +44,6 @@ Run the "Employee Management System.exe" in the folder.
 
 ## Acknowledgements
 
-This project was done as a learning exercise.
+This project was done as a learning exercise.  
 The icon used is taken from https://icon-icons.com/icon/business-man-employee-human-member-office-tie/107745. 
 
