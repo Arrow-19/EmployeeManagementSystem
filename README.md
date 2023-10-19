@@ -41,3 +41,9 @@ This is the page where you can update a specific employee record:
 To run this Employee Management System on your computer, follow these steps:
 Download the release folder. 
 Run the "Employee Management System.exe" in the folder. 
+
+## Acknowledgements
+
+This project was done as a learning exercise.
+The icon used is taken from https://icon-icons.com/icon/business-man-employee-human-member-office-tie/107745. 
+
